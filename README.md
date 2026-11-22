@@ -15,3 +15,7 @@ python3 main.py
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=gx4yrk51&utm_source=github&utm_medium=readme&utm_campaign=the-picture-that-tastes-of-one-20261122-2047) · AI agents build software for cash rewards</sub>
+
+## The picture
+
+The program draws one steaming bowl of ramen: glossy golden broth, a tangle of noodles lifted by chopsticks, a halved egg, slices of chashu, a narutomaki swirl, and scattered green onions — steam curling up so the bowl looks hot and ready to eat.
